@@ -1,10 +1,10 @@
 +++
-date = '2025-07-28T23:00:00+01:00'
+title = "This Is My New Blog Post"
+date = 2025-07-29T00:23:00+01:00
 draft = false
-title = 'Welcome! Welcome!'
-tags = ["introduction"]
+tags = ["obsidian", "workflow", "blog"]
 +++
 
-This is the second page I am trying to upload via Obsidian > Git integration.
+This post was written entirely inside Obsidian.
 
-I hope this works.
+No build steps. No push commands. No stress.
