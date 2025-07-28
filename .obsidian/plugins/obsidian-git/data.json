@@ -1,6 +1,6 @@
 {
-  "commitMessage": "auto: update {{date}}",
-  "autoCommitMessage": "auto: update {{date}}",
+  "commitMessage": "auto: update {{date:DD-MM-YYYY HH:mm:ss}}",
+  "autoCommitMessage": "auto: update {{date:DD-MM-YYYY HH:mm:ss}}",
   "commitMessageScript": "",
   "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
   "autoSaveInterval": 0,
