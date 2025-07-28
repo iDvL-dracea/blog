@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/hello-world.md",
+                "file": "content/posts/Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello-world"
+              "title": "Welcome"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/hello-world.md",
+                "file": "content/posts/Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hello-world"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/hello-world.md",
+                "file": "content/posts/Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hello-world"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/hello-world.md",
+                "file": "content/posts/Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hello-world"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -179,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0d746633e6ea90e",
+  "active": "2860f2170d07fce9",
   "lastOpenFiles": [
+    "README.md",
+    "content/posts/Welcome.md",
+    "content/posts/hello-world.md",
     "deploy.sh"
   ]
 }
