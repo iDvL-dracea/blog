@@ -1,9 +1,12 @@
 +++
-date = '2025-07-28T21:32:20+01:00'
+date = '2025-07-28T23:00:00+01:00'
 draft = false
-title = 'Hello World'
+title = 'Welcome!'
 tags = ["introduction"]
 +++
 
-Welcome to my new Hugo-powered blog.  
+Hello, and welcome to my new blog. 
 This is the first post, written in Markdown, published at the speed of light.
+To see how it will look like.
+
+More on this later.
