@@ -1,0 +1,5 @@
+baseURL = "https://blog.aurelficiu.com/"
+languageCode = "en-gb"
+title = "Aurel's Blog"
+theme = "PaperMod"
+publishDir = "docs"
